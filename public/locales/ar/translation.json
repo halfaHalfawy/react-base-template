@@ -1,0 +1,22 @@
+{
+  "FlowDirection": "rtl",
+  "Welcome": "مرحبا للعالم",
+  "DateNow": "التاريخ الان {{date, DATE_HUGE}}",
+  "EmailRequired": "الايميل مطلوب",
+  "EmailTooLong": "الايميل طويل جدا",
+  "InvalidEmail": "الايميل غير صحيح",
+  "PasswordRequired": "كلمة السر مطلوبة",
+  "PasswordTooShort": "كلمة السر قصيرة جدا",
+  "PasswordTooLong": "كلمة السر طويلة جدا",
+  "PasswordMismatch": "كلمة السر لم تتطابق",
+  "NetworkError": "خطا في الاتصال",
+  "Login": "تسجيل دخول",
+  "Register": "تسجيل حساب",
+  "Env": "بيئة",
+  "LightTheme.Catch": "نورها",
+  "DarkTheme.Catch": "سودها",
+  "Password": "كلمة السر",
+  "Email": "ايميل",
+  "RePassword": "اعادة كلمة السر",
+  "UnkownError": "خطا تواصل مع المخدم"
+}

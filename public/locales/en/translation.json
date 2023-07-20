@@ -1,0 +1,22 @@
+{
+  "FlowDirection": "ltr",
+  "Welcome": "hello world",
+  "DateNow": "Today date is {{date, DATE_HUGE}}",
+  "EmailRequired": "Email Required",
+  "EmailTooLong": "Email Too Long",
+  "InvalidEmail": "Invalid Email",
+  "PasswordRequired": "Password Required",
+  "PasswordTooShort": "Password Too Short",
+  "PasswordTooLong": "Password Too Long",
+  "PasswordMismatch": "Password Mismatch",
+  "NetworkError": "Connection Error",
+  "Login": "Login",
+  "Register": "Register",
+  "Env": "Env",
+  "LightTheme.Catch": "Make it light",
+  "DarkTheme.Catch": "Make it Dark",
+  "Password": "Password",
+  "Email": "Email",
+  "RePassword": "Re-enter Password",
+  "UnkownError": "Server not reachable"
+}
